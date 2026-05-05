@@ -1,0 +1,8 @@
+[submodule "courtesypoint/pos_bir"]
+	path = courtesypoint/pos_bir
+	url = git@github.com:courtesypoint/pos_bir.git
+	branch = v16/stable
+[submodule "courtesypoint/ifc_megaworld"]
+	path = courtesypoint/ifc_megaworld
+	url = git@github.com:courtesypoint/ifc-odoo-megaworld.git
+	branch = staging
